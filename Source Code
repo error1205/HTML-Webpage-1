@@ -1,0 +1,154 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta http-equiv="content-type" content="text/html" charset="utf-8">
+        <title>Website Project</title>
+              
+    </head>
+    <body>
+        
+        <table width="100%" height="60" border="0" cellspacing="5" cellpadding="5" bgcolor="#000000">
+            
+        <tr>
+            <td align="left">
+                <table width="547" align="center" border="0" cellspacing="1" cellpadding="1" bgcolor="#000000">
+                    
+                    <td width="96"><font face="verdana, Ganeva, sans-serif" color="white"><h3>Home</h3></font></td>
+                    
+                    <td width="113"><font face="verdana, Ganeva, sans-serif" color="white"><h3>About</h3></font></td>
+                    
+                    <td width="128"><font face="verdana, Ganeva, sans-serif" color="white"><h3>Services</h3></font></td>
+                    
+                    <td width="114"><font face="verdana, Ganeva, sans-serif" color="white"><h3>Clients</h3></font></td>
+                    
+                    <td width="80"><font face="verdana, Ganeva, sans-serif" color="white"><h3>Contact</h3></font></td>   
+                    
+                </table>            
+            </td>            
+        </tr>        
+        </table>
+        
+        <table width="100%" height="150" cellspacing="5" cellpadding="5" border="0" bgcolor="#F0F0F0">
+            
+            <tr>
+                <td align="center">
+                    <table width="708" height="150" cellspacing="1" cellpadding="1" border="0" bgcolor="#F0F0F0">
+                        
+                        <tr>
+                            <td width="330" align="left"><font face="verdana, Ganeva, sans-serif" color="black" size="5"><strong>MyBusiness</strong><br>Website</font></td>
+                            
+                            <td width="291" align="Right"><font face="verdana, Ganeva, sans-serif" color="black" size="5"><strong>Call us Today!</strong><br>1-800-000-0000</font>
+                            </td>         
+                        
+                        </tr>
+                    </table>
+                </td>            
+            </tr>        
+        </table>
+        
+        <table width="100%" height="200" border="0" cellspacing="1" cellpadding="1">
+            <tr>
+                <td align="center">
+                    <table width="600" border="0" cellspacing="1" cellpadding="1">
+                        <tr>
+                            <td align="center"><img src="website2.jpg" width="980" height="300"/></td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>            
+        </table>
+        
+        <table width="100%" height="100" border="0" cellspacing="5" cellpadding="5" bgcolor="white">
+            
+            <tr>
+                <td height="72" align="center" valign="top">
+                    <table width="447" border="0" cellspacing="1" cellpadding="1" bgcolor="white">
+                        <tr>
+                            <td width="726"align="center"><font face="verdana, Ganeva, sans-serif" color="black" size="5">This is my company website<br><strong>Dream. Plan. Create.</strong></font></td>
+                        </tr>                   
+                    </table>                
+                </td>            
+            </tr>        
+        </table>
+        
+        <table width="100%" height="236" border="0" cellspacing="5" cellpadding="5" bgcolor="white">
+            <tr>
+                <td height="72" align="center">
+                    <table width="426" border="0" cellspacing="50" cellpadding="1">
+                        <tr>
+                            <td align="center" valign="top" bgcolor="orange"><font face="verdana, Ganeva, sans-serif" color="black" color="white"><a href="www.contactus.com"><ul>Contact us Today!</ul></a></font></td>
+                        </tr>
+                        
+                        <tr>
+                            <td align="center" valign="bottom" bgcolor="white"><font face="verdana, Ganeva, sans-serif" color="black">Register for our Newsletter:<br><form name="newsletter" action="send.php" method="post">
+                                <table width="246" border="0" cellspacing="1" cellpadding="1">
+                                    <tr>
+                                        <td><input type="text" name="newsltr"></td>
+                                        <td><input type="submit" name="submit" value="Submit"></td>
+                                    </tr>
+                                </table>
+                                
+                                </form></font></td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>        
+        </table>
+    
+        <table width="100%" cellspacing="1" cellpadding="1" border="0" bgcolor="white">
+            <tr>
+                <td width="1308" align="center">
+                    <table width="1200" cellspacing="0" cellpadding="3" border="1">
+                        <tr>
+                            <td align="left"><font face="verdana, Ganeva, sans-serif" color="black"><strong><u>ABOUT US</u></strong></font></td>
+                            
+                            <td align="left"><font face="verdana, Ganeva, sans-serif" color="black"><strong><u>OUR VISION</u></strong></font></td>
+                            
+                            <td align="left"><font face="verdana, Ganeva, sans-serif" color="black"><strong><u>SERVICES</u></strong></font></td>
+                        </tr>
+                                                
+                        <tr>
+                            <td width="400" align="left"><font face="verdana, Ganeva, sans-serif" color="black">I am a paragraph. Click here to add your own text and edit me. Just click "Edit Text"I am a paragraph. Click here to add your own text and edit me. Just click "Edit Text" I am a paragraph. Click here to add your own text and edit me. Just click "Edit Text"I am a paragraph. Click here to add your own text and edit me. Just click "Edit Text"I am a paragraph. Click here to add your own text and edit me. Just click "Edit Text"I am a paragraph. Click here to add your own text and edit me. Just click "Edit Text" I am a paragraph. Click here to add your own text and edit me. Just click "Edit Text"I am a paragraph. Click here to add your own text and edit me. Just click "Edit Text" </font></td>
+                            
+                            <td width="400" align="left" valign="top"><font face="verdana, Ganeva, sans-serif" color="black">I am a paragraph. Click here to add your own text and edit me. Just click "Edit Text"I am a paragraph. Click here to add your own text and edit me. Just click "Edit Text" I am a paragraph. Click here to add your own text and edit me. Just click "Edit Text"I am a paragraph. Click here to add your own text and edit me. Just click "Edit Text"</font></td>
+                            
+                            <td width="400" align="left" valign="top">
+                                <ul>
+                                    <li>Strategy & Organization.</li>
+                                    <li>Corporate Development</li>
+                                    <li>Globalization</li>
+                                    <li>Operations Management</li>
+                                    <li>Corporate Finance</li>
+                                    <li>IT Management</li>
+                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        
+        <table width="100%" height="60" border="0" cellspacing="1" cellpadding="1" bgcolor="#000000">
+            <tr>
+                <td width="400" align="center">
+                    <table width="400" border="0" cellspacing="1" cellpadding="1">
+                        <tr>
+                            <td width="100" align="center" cellspacing="3" cellpadding="2" ><font face="verdana, Ganeva, sans-serif" color="white">Home</font></td>
+                            <td width="90" align="center" cellspacing="3" cellpadding="2" ><font face="verdana, Ganeva, sans-serif" color="white">Aboutus</font></td>
+                            <td width="90" align="center" cellspacing="3" cellpadding="2" ><font face="verdana, Ganeva, sans-serif" color="white">Services</font></td>
+                            <td width="90" align="center" cellspacing="3" cellpadding="2" ><font face="verdana, Ganeva, sans-serif" color="white">Clients</font></td>
+                            <td width="150" align="center" cellspacing="3" cellpadding="2" ><font face="verdana, Ganeva, sans-serif" color="white">Contact US</font></td>
+                        </tr>
+                        
+                        <tr>
+                            <td width="150" colspan="5"align="center" cellspacing="3" cellpadding="2" ><font face="verdana, Ganeva, sans-serif" color="white">&copy; 2020 by Aditya Raj</font></td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    
+    </body>
+
+
+</html>
